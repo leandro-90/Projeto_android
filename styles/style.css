@@ -246,6 +246,7 @@ footer {
 }
 
 footer > p {
+  font-size: 14px;
   opacity: 100%;
   margin: 5px;
   padding: 0;
